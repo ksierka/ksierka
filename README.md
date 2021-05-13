@@ -1,13 +1,13 @@
 
-** Hi, I’m @ksierka
+- Hi, I’m @ksierka
    Hello...
-** I’m interested in
-   Camping, Fly Fishing, Motorcycles, RV'ing
-** I’m currently learning
+- I’m interested in
+   Camping, Fly Fishing, Motorcycles, RV'ing, HAM Radio, Electronics
+- I’m currently learning
    emacs, bash, common lisp, and how to automate a personal TV station.
-** I’m looking to collaborate on
+- I’m looking to collaborate on
    SW development using gnu emacs as IDE
-** How to reach me
+- How to reach me
    karl.sierka@gmail.com
    
 
